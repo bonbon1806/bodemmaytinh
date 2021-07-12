@@ -1,0 +1,2 @@
+rootProject.name = "may tinh bo tui demo"
+include ':app'
